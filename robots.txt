@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Add your sitemap URL here after the final domain is known:
-# Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+Sitemap: https://drnoopursingh.com/sitemap.xml
